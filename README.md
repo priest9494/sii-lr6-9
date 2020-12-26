@@ -40,4 +40,4 @@
   Код, описание и демонстрация в файле LR6.ipynb
   
   ## ЛР 9 - Кастомизация мультимодального интерфейса
-  ![Image alt](https://github.com/priest9494/sii-lr6-9/raw/master/teaman.png)
+  ![Image alt](https://github.com/priest9494/sii-lr6-9/blob/master/teaman.jpg)
