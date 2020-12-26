@@ -37,7 +37,7 @@
 	11. Какой чай нельзя пить на ночь?
   
   ## ЛР 7 - Диалоговая система
-  Код, описание и демонстрация в файле LR6.ipynb
+  Код, описание и демонстрация в файле [LR6.ipynb](https://github.com/priest9494/sii-lr6-9/blob/master/LR6.ipynb)
   
   ## ЛР 9 - Кастомизация мультимодального интерфейса
   ![Image alt](https://github.com/priest9494/sii-lr6-9/blob/master/teaman.jpg)
